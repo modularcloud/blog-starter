@@ -33,6 +33,10 @@ html {
   min-width: 360px;
 }
 
+body {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+}
+
 .prose .anchor {
   @apply absolute invisible no-underline;
 
